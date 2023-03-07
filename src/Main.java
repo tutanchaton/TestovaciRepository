@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-
-        System.out.println("Hello world!");
+        MojeTrida t = new MojeTrida("Ahoj");
+        System.out.println(t);
     }
 }
